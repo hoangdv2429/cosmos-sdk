@@ -26,6 +26,8 @@ require (
 	gotest.tools/v3 v3.5.1
 )
 
+require github.com/cosmos/ics23/go v0.10.0
+
 require (
 	github.com/DataDog/zstd v1.5.5 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
